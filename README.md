@@ -74,7 +74,7 @@ A modern browser that supports ES Modules (Chrome, Firefox, Edge, Safari).
 
 Run Locally
 
-bashgit clone https://github.com/your-username/os-simulator.git
+bashgit clone https://github.com/alyankhan105/OS-Simulator.git
 cd os-simulator
 
 Then serve the files with any static server, for example:
